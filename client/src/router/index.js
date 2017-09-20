@@ -11,7 +11,7 @@ import Login from '@/components/PAGES/PAGE-login'
 
 Vue.use(VueRouter);
 
-//test for github
+//test for Github
 
 export default new Router({
   routes: [
