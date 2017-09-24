@@ -1,8 +1,9 @@
 
 <template>
-<div style="background-color: #878181;height:220px;">
+<div style="background-color: #878181;height:150px;">
   <div style="float:right;width:30%;border-left:#908a8a solid 1px;">
-    <h3>联系我们</h3>
+    <h3 style="float:left;">联系我们:</h3>
+    <div style="float:left;width:20px;"></div>
     <img src="../../assets/test.jpg" height="135" width="135"/>
   </div>
   <div style="position: relative;width:70%;">

@@ -5,6 +5,14 @@ import App from './App'
 import router from './router'
 
 
+import Swiper from 'vue-awesome-swiper'
+var SwiperCSS=require('swiper/dist/css/swiper.css')
+Vue.use(Swiper)
+Vue.use(SwiperCSS)
+
+import iView from 'iview'
+var iViewCSS=require('iview/dist/styles/iview.css')
+Vue.use(iView)
 
 
 Vue.config.productionTip = false

@@ -2,19 +2,19 @@
   <div style="clear:both;height:240px;">
 
     <p class="cSubTitle">大触出没</p>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <user-block></user-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <user-block></user-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <user-block></user-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <user-block></user-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <user-block></user-block>
     </div>
     <br/>

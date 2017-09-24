@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <Header></Header>
+      <_header></_header>
     </div>
 
     <div style="position:relative;left:10%;width:300px;float:left;">
@@ -27,7 +27,7 @@
 
 
     components: {
-      'Header': Header,
+      '_header': Header,
       'login-frame': LoginFrame,
       'login-link': LoginLink
     },

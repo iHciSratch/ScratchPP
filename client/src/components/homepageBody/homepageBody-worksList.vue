@@ -23,19 +23,19 @@
       <!--<LoginLink></LoginLink>-->
     <!--</div>-->
     <p class="cSubTitle">优秀作品</p>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'消消乐'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'消消乐'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'消消乐'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'消消乐'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'消消乐'"></link-block>
     </div>
     <br/>

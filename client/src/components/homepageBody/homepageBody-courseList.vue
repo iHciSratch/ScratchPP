@@ -3,19 +3,19 @@
 
 
     <p class="cSubTitle">热门好课</p>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'适合7到9岁儿童'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'适合7到9岁儿童'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'适合7到9岁儿童'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'适合7到9岁儿童'"></link-block>
     </div>
-    <div style="width:15%;float:left;">
+    <div style="width:200px;float:left;">
       <link-block v-bind:description="'适合7到9岁儿童'"></link-block>
     </div>
   </div>

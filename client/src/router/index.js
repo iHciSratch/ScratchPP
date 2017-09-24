@@ -8,10 +8,9 @@ import VueRouter from 'vue-router'
 import Homepage from '@/components/PAGES/PAGE-homepage'
 import Login from '@/components/PAGES/PAGE-login'
 
+import Test from '@/components/test'
 
 Vue.use(VueRouter);
-
-//test for Github
 
 export default new Router({
   routes: [
@@ -22,6 +21,10 @@ export default new Router({
     {
       path: '/login',
       component: Login
+    },
+    {
+      path: '/test',
+      component: Test
     }
   ]
 })

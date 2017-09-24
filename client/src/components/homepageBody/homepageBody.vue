@@ -1,18 +1,19 @@
 <template>
   <div >
-    <div style="text-align: center;">
+    <div style="position:relative;left:280px;width:800px;">
       <head-image></head-image>
     </div>
-    <div style="background-color:#fef8de;height:500px;padding-top:20px;">
-      <div style="margin-left:20%;">
+    <div style="height:20px;"></div>
+    <div style="background-color:#fef8de;height:540px;padding-top:20px;">
+      <div style="margin-left:180px;">
         <course-list></course-list>
       </div>
-
-      <div style="margin-left:20%;position: relative;top:20px;">
+      <div style="height:200px;"></div>
+      <div style="margin-left:180px;">
         <works-list></works-list>
       </div>
     </div>
-    <div style="margin-left:20%">
+    <div style="margin-left:180px;">
       <user-list></user-list>
     </div>
   </div>
@@ -23,6 +24,8 @@
   import CourseList from './homepageBody-courseList.vue'
   import WorksList from './homepageBody-worksList.vue'
   import UserList from './homepageBody-userList.vue'
+
+
 
 
   export default{

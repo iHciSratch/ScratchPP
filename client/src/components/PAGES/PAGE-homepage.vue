@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Header></Header>
+    <_header></_header>
     <homepage-body></homepage-body>
-      <Footer></Footer>
+      <_footer></_footer>
 
 
   </div>
@@ -19,9 +19,9 @@
 
 
     components: {
-      'Header': Header,
+      '_header': Header,
       'homepage-body': HomepageBody,
-      'Footer': Footer
+      '_footer': Footer
     },
 
     data(){
