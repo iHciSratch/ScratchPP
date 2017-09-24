@@ -39,9 +39,9 @@
   }
 
   .cDivText {
-    width: 100%;
+    width: 152px;
     position: relative;
-    top: -50px;
+    top: -40px;
     height: 30px;
     background-color: rgba(0, 0, 0, 0.4);
     border-bottom-left-radius: 6px;
